@@ -16,6 +16,11 @@ pip3 install SpeechRecognition --break-system-package
 
 <img width="956" alt="proj2" src="https://user-images.githubusercontent.com/110839535/236692106-fc6a8eb8-b130-447c-8176-323b847d059b.PNG">
 
-| Attempt | #1  | #2  |
-| ------- | --- | --- |
-| Seconds | 301 | 283 |
+# FEATURES
+┌──────────────────────────────────────────┐
+│  COMMAND    │      FUNCTIONS             │
+├─────────────┼────────────────────────────┤
+│List FILES   │Lists All Files             │
+├─────────────┼────────────────────────────┤
+│and          │super awesome               │
+└─────────────┴────────────────────────────┘
