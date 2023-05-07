@@ -3,16 +3,17 @@
                                                
                                                      Voice-Controller-Shell
                                                     
-                                                    
-# Introduction
+   COURSE INSTRUCTOR : MISS RABIA ANSARI  
+   
+                                                          Introduction
 
 Voice Controll shell By Using Python Based Code Which Allows Easy Access to work on Directories and Commands On linux by Speech .
 
-# Dependencies
+                                                           Dependencies
 
 INSTALLING PYAUDIO
 
-# COMMAND
+- COMMAND
 
 sudo apt install python3-pyaudio
 
@@ -20,7 +21,7 @@ sudo apt install python3-pyaudio
 
 INSTALLING SPEECH_RECOGNITION
 
-# COMMAND
+- COMMAND
 
 pip3 install SpeechRecognition --break-system-package
 
