@@ -1,8 +1,8 @@
-   OPERATING SYSYTEM FINAL PROJECT
+                                                OPERATING SYSYTEM FINAL PROJECT
                                                                                         
-   Voice-Controller-Shell
+                                                    Voice-Controller-Shell
                                                     
-   COURSE INSTRUCTOR : MISS RABIA ANSARI  
+                                              COURSE INSTRUCTOR : MISS RABIA ANSARI  
    
 # Introduction
 
