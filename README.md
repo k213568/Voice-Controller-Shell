@@ -57,10 +57,8 @@ Voice Controll shell By Using Python Based Code Which Allows Easy Access to work
     print("23. Login as root")
     print("24. List Users")
     print("25. Delete User")
-    print("26. Permanently Delete User")
-    print("27. Add user login")
-    print("28. Who created you?")
-    print("29. Create random file")
+    print("26. Who created you?")
+
    
 
 
