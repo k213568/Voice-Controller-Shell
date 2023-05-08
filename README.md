@@ -26,9 +26,9 @@ Voice Controll shell By Using Python Based Code Which Allows Easy Access to work
 
 # How Our Conversation Goes
 
--system asks say Something
--we say The Command
--system Runs The Commands if Valid
+- system asks "say Something"
+- we say The Command
+- system Runs The Commands if Valid
 
 # Functions
 
