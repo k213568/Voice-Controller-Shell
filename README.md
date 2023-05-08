@@ -24,6 +24,12 @@ Voice Controll shell By Using Python Based Code Which Allows Easy Access to work
 
 <img width="956" alt="proj2" src="https://user-images.githubusercontent.com/110839535/236692106-fc6a8eb8-b130-447c-8176-323b847d059b.PNG">
 
+# How Our Conversation Goes
+
+-system asks say Something
+-we say The Command
+-system Runs The Commands if Valid
+
 # Functions
 
     print("1. List Files")
